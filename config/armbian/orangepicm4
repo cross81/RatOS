@@ -10,7 +10,7 @@ BASE_USER="pi"
 BASE_USER_PASSWORD="raspberry"
 
 # Image source1
-DOWNLOAD_URL_CHECKSUM="https://github.com/cross81/Orangepicm4/blob/main/Orangepicm4_1.0.4_debian_bullseye_server_linux5.10.160.img.sha.xz"
+# DOWNLOAD_URL_CHECKSUM="https://github.com/cross81/Orangepicm4/blob/main/Orangepicm4_1.0.4_debian_bullseye_server_linux5.10.160.img.sha.xz"
 DOWNLOAD_URL_IMAGE="https://github.com/cross81/Orangepicm4/blob/main/Orangepicm4_1.0.4_debian_bullseye_server_linux5.10.160.img.xz"
 
 # export Variables
